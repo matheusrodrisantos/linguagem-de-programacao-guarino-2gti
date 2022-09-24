@@ -1,0 +1,100 @@
+*, html {
+    padding:0;  
+    margin:0;
+}
+
+
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+}
+section{
+    height: 400px;
+}
+header
+{
+    width: 100%;
+    
+    text-align: center;
+    
+}
+.imgHeader
+{
+    background-color: #f0f0f0;  
+    height: 16ex;
+}
+ul{
+    list-style-type: none;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+nav li {
+    float: left;
+}
+  
+nav li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+nav li a:hover 
+{
+    background-color: #111;
+}
+section
+{
+    padding: 5%;
+}
+footer
+{
+    padding: 10px;
+    background-color: #333333;
+    color: #f0f0f0;
+}
+footer div{
+    margin-top: 10px;
+    padding-top: 10px;
+    height: 20ex;
+}
+.titulo-footer
+{
+    float:left;
+    width: 50%;
+}
+.my-photo{
+    border-radius: 5px;
+    max-width: 200px;
+    margin-left: 10px;
+    
+}
+@media (max-width: 780px) 
+{
+    .titulo-footer
+    {
+        float:none;
+    }    
+}
+
+
+h1,h2,h3,h4,h5,h6 
+{     
+    font-weight: unset;
+}
+
+.div-image
+{
+    
+    float: left;
+    
+}
