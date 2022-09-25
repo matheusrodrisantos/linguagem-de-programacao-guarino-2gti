@@ -10,7 +10,7 @@ body
     background-color: #f0f0f0;
 }
 section{
-    height: 400px;
+    min-height: 400px;
 }
 header
 {
@@ -97,4 +97,10 @@ h1,h2,h3,h4,h5,h6
     
     float: left;
     
+}
+
+.gif{
+    width: 450px;
+    height: 250px;
+    border-radius: 10px;
 }
