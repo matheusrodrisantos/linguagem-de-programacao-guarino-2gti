@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Matheus2GTI\\lanchao\\lanchao.csproj": {}
+    "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj": {}
   },
   "projects": {
-    "D:\\Matheus2GTI\\lanchao\\lanchao.csproj": {
+    "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Matheus2GTI\\lanchao\\lanchao.csproj",
+        "projectUniqueName": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj",
         "projectName": "lanchao",
-        "projectPath": "D:\\Matheus2GTI\\lanchao\\lanchao.csproj",
+        "projectPath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "D:\\Matheus2GTI\\lanchao\\obj\\",
+        "outputPath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
