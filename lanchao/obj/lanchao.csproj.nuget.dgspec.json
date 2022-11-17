@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj": {}
+    "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\Lanchao\\Lanchao.csproj": {}
   },
   "projects": {
-    "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj": {
+    "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\Lanchao\\Lanchao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj",
-        "projectName": "lanchao",
-        "projectPath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj",
+        "projectUniqueName": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\Lanchao\\Lanchao.csproj",
+        "projectName": "Lanchao",
+        "projectPath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\Lanchao\\Lanchao.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\obj\\",
+        "outputPath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\Lanchao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

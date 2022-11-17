@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "bZLsftNFnmrZpCkSJ4nZ3DsDjZlwiLGuZNYSTJKUZuAommT769KNxbYxKPLLI88IAS1Cx4po1wnOSqbo7kOKqw==",
   "success": true,
-  "projectFilePath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\lanchao\\lanchao.csproj",
+  "projectFilePath": "D:\\Matheus2GTI\\linguagem-de-programacao-guarino-2gti\\Lanchao\\Lanchao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALUNO\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\ALUNO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

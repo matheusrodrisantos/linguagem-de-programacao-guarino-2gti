@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "lanchao": {
+    "Lanchao": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
