@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace LojaApi.Models{
 
-    public class Categoria{
+    public class Pipoca{
 
         [Key]
         public int Id {get; set;}
@@ -12,6 +12,9 @@ namespace LojaApi.Models{
         public String Nome {get; set;}
 
         public String Departamento {get; set;}
+
+        public String Apelido {get; set;}
+
 
         public DateTime DataCadastro {get; set;}
 

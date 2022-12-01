@@ -8,6 +8,6 @@ namespace LojaApi.Data{
 
         }
 
-        public DbSet<Categoria> Categorias {get;set;}
+        public DbSet<Pipoca> Pipocas {get;set;}
     }
 }
